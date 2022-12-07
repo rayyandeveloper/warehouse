@@ -1,0 +1,16 @@
+.form {
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+
+.form form div {
+    margin: 10px;
+}
+
+input[type=text], input[type=password] {
+    height: 20px;
+    width: 200px;
+}
+
+

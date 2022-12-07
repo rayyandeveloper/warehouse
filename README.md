@@ -1,2 +1,5 @@
-# warehouse
-git clone
+## Install requirements
+```
+pip install requirements.txt
+
+```
